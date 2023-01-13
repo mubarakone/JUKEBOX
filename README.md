@@ -1,2 +1,2 @@
 # JukeBox
-Look at this streaming service I created @ETHSanFrancisco2022 using Web3Player
+# https://ethglobal.com/showcase/seceret-name-3gjhbhttps://ethglobal.com/showcase/seceret-name-3gjhb
