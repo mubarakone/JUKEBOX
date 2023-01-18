@@ -1,4 +1,4 @@
-# JukeBox
+# JUKEBOX
 # `user-interface-samples`
 Credit: [@daphnehdz](https://github.com/daphnehdz)
 ![image](https://user-images.githubusercontent.com/52806204/212444435-02f5079e-f22d-4ecb-b542-9e693897c62b.png)
